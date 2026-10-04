@@ -1,0 +1,4 @@
+print("hello world")
+print("first code")
+a = input("enter your name ")
+print(a)
